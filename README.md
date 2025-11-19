@@ -15,6 +15,6 @@ Traffic Sign Classifier: A Python project that compares a CNN (TensorFlow) and a
 
 ## 📫 Let's Connect!
 
-LinkedIn: [Nazim Kayani](www.linkedin.com/in/nazim-kayani-9562aa185)
+LinkedIn: [Nazim Kayani](https://www.linkedin.com/in/nazim-kayani-9562aa185)
 
 Email: nazimbamin@gmail.com
